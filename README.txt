@@ -1,0 +1,1 @@
+I tried to make webpage which is similar to sample_webpage.png picture webpage picture using only CSS and HTML 
